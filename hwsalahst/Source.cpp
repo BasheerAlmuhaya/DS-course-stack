@@ -72,7 +72,7 @@ public:
 		}
 		cout << endl;
 	} //------------------------------------------------------------
-	void dis(Node *p)
+	void dis(Node *p) //display function
 	{
 		if (p == NULL)
 			return;
